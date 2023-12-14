@@ -1,0 +1,2 @@
+Day con co tong Max la: 2 18 -2 4 8 1 -5 20 
+Tong gia tri la: 46

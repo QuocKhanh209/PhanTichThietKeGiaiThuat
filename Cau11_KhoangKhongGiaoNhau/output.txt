@@ -1,0 +1,20 @@
+- Sap xep theo thu tu tang dan thoi gian ket thuc: 
+	ID		Bat dau		Ket thuc
+	a1		1		3
+	a2		4		6
+	a3		2		7
+	a9		3		8
+	a4		9		10
+	a11		6		11
+	a6		8		14
+	a8		11		15
+	a7		13		16
+	a5		5		17
+	a10		15		20
+* Output: Chon nhung cong viec sau: 
+	ID		Bat dau		Ket thuc
+	a1		1		3
+	a2		4		6
+	a4		9		10
+	a8		11		15
+	a10		15		20

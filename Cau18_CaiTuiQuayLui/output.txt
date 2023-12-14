@@ -1,0 +1,3 @@
+
+Cac do vat duoc chon: 1 4 5 8 10 
+Gia tri nhan duoc la: 33
