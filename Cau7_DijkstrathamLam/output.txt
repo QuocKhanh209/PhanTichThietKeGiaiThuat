@@ -1,0 +1,27 @@
+
+Duong di ngan nhat tu 1 den 2 la :2 <- 1
+Trong so: 2
+
+Duong di ngan nhat tu 1 den 3 la :3 <- 1
+Trong so: 3
+
+Duong di ngan nhat tu 1 den 4 la :4 <- 2 <- 1
+Trong so: 4
+
+Duong di ngan nhat tu 1 den 7 la :7 <- 4 <- 2 <- 1
+Trong so: 7
+
+Duong di ngan nhat tu 1 den 5 la :5 <- 4 <- 2 <- 1
+Trong so: 8
+
+Duong di ngan nhat tu 1 den 9 la :9 <- 7 <- 4 <- 2 <- 1
+Trong so: 8
+
+Duong di ngan nhat tu 1 den 8 la :8 <- 7 <- 4 <- 2 <- 1
+Trong so: 11
+
+Duong di ngan nhat tu 1 den 10 la :10 <- 9 <- 7 <- 4 <- 2 <- 1
+Trong so: 11
+
+Duong di ngan nhat tu 1 den 6 la :6 <- 8 <- 7 <- 4 <- 2 <- 1
+Trong so: 13

@@ -1,0 +1,5 @@
+
+Tong so vat da lay: 5
+Gia tri lon nhat co the lay: 33
+Khoi luong da su dung: 29
+Cac vat da lay [stt (so luong)] : 10 (1)  5 (1)  1 (1)  8 (1)  4 (1)  

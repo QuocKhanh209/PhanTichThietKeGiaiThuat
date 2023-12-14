@@ -1,0 +1,39 @@
+Cay bao trum nho nhat:
+
+Canh: (1,7) 
+co trong so: 1
+Cac dinh da xet: 1 7 
+
+Canh: (1,8) 
+co trong so: 2
+Cac dinh da xet: 1 7 8 
+
+Canh: (8,9) 
+co trong so: 3
+Cac dinh da xet: 1 7 8 9 
+
+Canh: (9,5) 
+co trong so: 2
+Cac dinh da xet: 1 7 8 9 5 
+
+Canh: (5,6) 
+co trong so: 5
+Cac dinh da xet: 1 7 8 9 5 6 
+
+Canh: (6,10) 
+co trong so: 4
+Cac dinh da xet: 1 7 8 9 5 6 10 
+
+Canh: (10,4) 
+co trong so: 1
+Cac dinh da xet: 1 7 8 9 5 6 10 4 
+
+Canh: (10,3) 
+co trong so: 3
+Cac dinh da xet: 1 7 8 9 5 6 10 4 3 
+
+Canh: (9,2) 
+co trong so: 7
+Cac dinh da xet: 1 7 8 9 5 6 10 4 3 2 
+
+Tong trong so cay bao trum nho nhat: 28

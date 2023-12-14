@@ -1,0 +1,3 @@
+Chi so dau va cuoi la: 1 va 10
+1 2 3 -4 5 6 7 8 9 4 
+Tong cua day con lon nhat la: 41
