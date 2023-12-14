@@ -26,8 +26,6 @@ void Datainput() {
         input >> n >> w;
         for (int i = 1; i <= n; i++){
             input >> ob[i].Weight >> ob[i].Value;
-            // a[i] = temp;
-            // a.push_back(temp);
         }
         input.close();
     }

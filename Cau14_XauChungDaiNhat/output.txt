@@ -1,16 +1,14 @@
-Mang 1: HACDAH
-Mang 2: HAEFGAH
+Mang 1: ABCD
+Mang 2: BDAF
 <------------------Ket qua------------------->
 
 - Bang ma tran ket qua: 
-0  0  0  0  0  0  0  0  
-0  1  1  1  1  1  1  1  
-0  1  2  2  2  2  2  2  
-0  1  2  2  2  2  2  2  
-0  1  2  2  2  2  2  2  
-0  1  2  2  2  2  3  3  
-0  1  2  2  2  2  3  4  
+0  0  0  0  0  
+0  0  0  1  1  
+0  1  1  1  1  
+0  1  1  1  1  
+0  1  2  2  2  
 
-- Xau con chung dai nhat la: HAAH
+- Xau con chung dai nhat la: BD
 
-- Do dai xau con chung dai nhat: 4
+- Do dai xau con chung dai nhat: 2

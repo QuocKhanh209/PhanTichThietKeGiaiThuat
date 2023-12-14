@@ -8,7 +8,7 @@ string kq="";
 int m,n,i,j;
 int c[MAX][MAX];
 
-ifstream input("input.txt");
+ifstream input("input2.txt");
 ofstream output("output.txt");
 
 void LCS(string S1, string S2)
